@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Meta-Emergence in Discrete Dynamical Systems: The Fibridge Algorithm v2.0"
+version: "2.0"
+date-released: 2026-01-01
+authors:
+  - family-names: Bakoriya
+    given-names: Dheeraj Kumar
+    email: dbakoriya@gmail.com
+    affiliation: "Independent Researcher"
+abstract: |
+  Version 2.0 introduces Dheeraj's Constants (universal scaling coefficients V_α = 0.8169, 
+  S_β = 0.1191, K_γ = 5.263) and the phenomenon of meta-emergence—precise mathematical 
+  laws emerging from emergent structures. Builds upon Version 1.0 (DOI: 10.5281/zenodo.18071761) 
+  with complete mathematical formalization, convergence proofs, and 5D-9D empirical validation.
+keywords:
+  - emergence
+  - meta-emergence
+  - Dheeraj's Constants
+  - scaling laws
+  - cellular automata
+  - universal constants
+  - Fibridge Algorithm
+  - discrete dynamics
+license: MIT
+repository-code: "https://github.com/Dheeraj7K/DFA"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.[to-be-assigned]"
+    description: "Version 2.0 DOI"
+references:
+  - type: article
+    authors:
+      - family-names: Bakoriya
+        given-names: Dheeraj Kumar
+    title: "Dheeraj's Fibridge Algorithm (DFA): A Constraint-First Analytical Framework"
+    year: 2024
+    publisher: Zenodo
+    doi: "10.5281/zenodo.18071761"
+    notes: "Version 1.0 - Conceptual foundation"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Bakoriya
+      given-names: Dheeraj Kumar
+  title: "Meta-Emergence in Discrete Dynamical Systems: The Fibridge Algorithm and Dheeraj's Constants"
+  year: 2026
+  version: "2.0"
+  publisher: Zenodo
+  doi: "10.5281/zenodo.[to-be-assigned]"
